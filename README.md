@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @mustafaeneskalkan
-- Still studying...
+- Ceng student at TEDU
+- Full Stack Developer
+- React & React Native / Node.js
+- Founder of Imager Platform (Will be)
 - 
 <!---
 mustafaeneskalkan/mustafaeneskalkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
